@@ -1,0 +1,13 @@
+#maintitle {
+    text-align: center;
+    border-bottom: solid 1px gray;
+}
+#mainindex{
+    display: inline-block;
+    width: 20%;
+    height: 700px;
+    border-right: solid 1px gray;
+}
+#main{
+
+}
