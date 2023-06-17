@@ -1,13 +1,17 @@
+/*맨 위 제목부분 서식*/
 #maintitle {
     text-align: center;
     border-bottom: solid 1px gray;
 }
+/*목차 부분 서식*/
 #mainindex{
     display: inline-block;
     width: 20%;
     height: 700px;
     border-right: solid 1px gray;
+    line-height: 2.0;
 }
+/*내용 부분 서식*/
 #main{
 
 }
